@@ -1,0 +1,99 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 10vh;
+    min-height: 50px;
+    max-height: 80px;
+    background-color: var(--color-header);
+    color: var(--color-text-primary);
+
+    .container {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        height: 100%;
+        width: 100%;
+        max-width: 1200px;
+        background-color: var(--color-header);
+        padding: 1rem 2rem;
+        color: var(--color-text-primary);
+    }
+
+    .logo {
+        height: 100%;
+        img {
+            height: 100%;
+            cursor: pointer;
+        }
+    }
+
+    .nav-tabs {
+        display: flex;
+        margin: 0 2rem;
+        gap: 1.5rem;
+
+        a {
+            text-decoration: none;
+            color: inherit;
+            font-weight: 500;
+
+            &:hover {
+                color: var(--color-accent);
+                cursor: pointer;
+            }
+        }
+    }
+
+    .search-container {
+        flex: 1;
+        margin: 0 2rem;
+
+        input {
+            width: 100%;
+            max-width: 500px;
+            padding: 0.5rem 1rem;
+            border: none;
+            border-radius: 0.5rem;
+            background-color: var(--color-surface);
+            color: var(--color-text-primary);
+        }
+    }
+
+    .login-btn {
+        background-color: var(--color-accent);
+        border: none;
+        padding: 0.5rem 1rem;
+        border-radius: 0.5rem;
+        color: white;
+        font-weight: 500;
+        cursor: pointer;
+
+        &:hover {
+            background-color: var(--color-accent-hover);
+        }
+    }
+
+    .user-menu {
+        display: flex;
+        align-items: center;
+        gap: 1rem;
+
+        .username {
+            font-weight: 500;
+        }
+
+        button {
+            background: none;
+            border: 1px solid var(--color-border-soft);
+            padding: 0.5rem 1rem;
+            border-radius: 0.5rem;
+            color: var(--color-text-primary);
+            cursor: pointer;
+
+            &:hover {
+                background-color: var(--color-glow);
+            }
+        }
+    }
+}

@@ -1,0 +1,30 @@
+<header class="header">
+    <div class="container">
+        <!-- Logo -->
+        <div class="logo">
+            <img src="popcorn.png" alt="Logo" />
+        </div>
+
+        <!-- Tabs -->
+        <nav class="nav-tabs">
+            <a routerLink="/tv-shows">TV Shows</a>
+            <a routerLink="/movies">Movies</a>
+            <a routerLink="/categories">Categories</a>
+        </nav>
+
+        <!-- Search -->
+        <div class="search-container" [formGroup]="searchForm">
+            <input type="text" placeholder="Search for movies..." formControlName="searchQuery" (keyup.enter)="handleSearch()" />
+        </div>
+
+        <!-- Auth Section -->
+        @if (!isLoggedIn) {
+        <button class="login-btn" (click)="login()">Login</button>
+        } @else {
+        <div class="user-menu">
+            <span class="username">{{ userName }}</span>
+            <button (click)="logout()">Logout</button>
+        </div>
+        }
+    </div>
+</header>

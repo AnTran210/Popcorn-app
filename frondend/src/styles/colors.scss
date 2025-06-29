@@ -1,0 +1,24 @@
+:root {
+    /* === Base === */
+    --color-bg:         oklch(7% 0 0);            /* Đen "true black" */
+    --color-header:     oklch(16% 0 20);      /* Đen hơi pha đỏ cam (header/nav) */
+    --color-surface:    oklch(20% 0 20);       /* Nền khối nổi nhẹ */
+  
+    /* === Text === */
+    --color-text-primary:   oklch(90% 0.005 20);  /* Trắng hơi ấm (đỡ gắt) */
+    --color-text-secondary: oklch(70% 0.003 20);  /* Xám chữ phụ */
+    --color-text-muted:     oklch(50% 0.003 20);  /* Placeholder, label */
+  
+    /* === Accent === */
+    --color-accent:     oklch(62% 0.28 25);       /* Đỏ rực Netflix */
+    --color-accent-hover: color-mix(in srgb, var(--color-accent) 80%, var(--color-bg));
+  
+    /* === Borders/Effects === */
+    --color-border-soft: oklch(25% 0.01 20);      /* Viền mềm nhẹ */
+    --color-glow:        oklch(40% 0.1 25);       /* Neon đỏ nhẹ khi hover */
+  
+    /* === Semantic (tùy chọn) === */
+    --color-success:    oklch(65% 0.22 145);      /* Xanh lá */
+    --color-warning:    oklch(80% 0.24 90);       /* Vàng cam */
+    --color-error:      var(--color-accent);      /* Dùng luôn accent */
+  }

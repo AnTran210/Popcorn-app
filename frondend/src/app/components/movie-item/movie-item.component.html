@@ -1,0 +1,13 @@
+<section>
+    <div class="thumbnail-wrapper">
+      <img class="thumbnail" [src]="movie.posterUrl" alt="{{ movie.title }}">
+      <div class="overlay"></div>
+      <div class="play-icon">
+        <svg viewBox="0 0 24 24" fill="currentColor">
+          <path d="M8 5v14l11-7z"/>
+        </svg>
+      </div>
+    </div>
+    <h3 class="name">{{ movie.title }}</h3>
+    <p class="views">Views: 1000</p>
+  </section>

@@ -1,0 +1,21 @@
+<main>
+    <div class="container">
+        <div class="content">
+            <h2>Most views</h2>
+            <div class="list">
+                @for (item of paginatedItems; track $index) {
+                <app-movie-item [movie]="item"></app-movie-item>
+                }
+            </div>
+
+            <!-- Pagination -->
+            <div class="pagination">
+                <!-- @for (i of totalPages; track i) {
+                <button [class.active]="currentPage === i + 1" (click)="goToPage(i + 1)">
+                    {{ i + 1 }}
+                </button>
+                } -->
+            </div>
+        </div>
+    </div>
+</main>

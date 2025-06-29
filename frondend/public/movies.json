@@ -1,0 +1,422 @@
+[
+    {
+      "id": "mv001",
+      "title": "The Condor Hero 2014",
+      "genres": ["Fantasy", "Action", "Drama"],
+      "type": "Movie",
+      "posterUrl": "https://photo.znews.vn/w660/Uploaded/wobvjju/2014_11_25/704_1485041_905338.jpg",
+      "backgroundUrl": "https://photo.znews.vn/w660/Uploaded/wobvjju/2014_11_25/704_1485040_210444.jpg",
+      "sources": [
+        {
+          "episode": 1,
+          "url": "https://example.com/movies/condor_hero_full.mp4"
+        }
+      ]
+    },
+    {
+      "id": "mv002",
+      "title": "Cosmic Odyssey",
+      "genres": ["Sci-Fi", "Adventure"],
+      "type": "Movie",
+      "posterUrl": "https://example.com/posters/cosmic_odyssey.jpg",
+      "backgroundUrl": "https://example.com/backgrounds/cosmic_odyssey_bg.jpg",
+      "sources": [
+        {
+          "episode": 1,
+          "url": "https://example.com/movies/cosmic_odyssey_full.mp4"
+        }
+      ]
+    },
+    {
+      "id": "mv003",
+      "title": "Whispers in the Dark",
+      "genres": ["Thriller", "Horror"],
+      "type": "Movie",
+      "posterUrl": "https://example.com/posters/whispers.jpg",
+      "backgroundUrl": "https://example.com/backgrounds/whispers_bg.jpg",
+      "sources": [
+        {
+          "episode": 1,
+          "url": "https://example.com/movies/whispers_full.mp4"
+        }
+      ]
+    },
+    {
+      "id": "mv004",
+      "title": "Ancient Echoes",
+      "genres": ["Adventure", "Mystery"],
+      "type": "Movie",
+      "posterUrl": "https://example.com/posters/ancient_echoes.jpg",
+      "backgroundUrl": "https://example.com/backgrounds/ancient_echoes_bg.jpg",
+      "sources": [
+        {
+          "episode": 1,
+          "url": "https://example.com/movies/ancient_echoes_full.mp4"
+        }
+      ]
+    },
+    {
+      "id": "mv005",
+      "title": "The Last Sentinel",
+      "genres": ["Action", "Sci-Fi"],
+      "type": "Movie",
+      "posterUrl": "https://example.com/posters/last_sentinel.jpg",
+      "backgroundUrl": "https://example.com/backgrounds/last_sentinel_bg.jpg",
+      "sources": [
+        {
+          "episode": 1,
+          "url": "https://example.com/movies/last_sentinel_full.mp4"
+        }
+      ]
+    },
+    {
+      "id": "mv006",
+      "title": "City of Secrets",
+      "genres": ["Crime", "Drama"],
+      "type": "Movie",
+      "posterUrl": "https://example.com/posters/city_secrets.jpg",
+      "backgroundUrl": "https://example.com/backgrounds/city_secrets_bg.jpg",
+      "sources": [
+        {
+          "episode": 1,
+          "url": "https://example.com/movies/city_secrets_full.mp4"
+        }
+      ]
+    },
+    {
+      "id": "mv007",
+      "title": "Beyond the Stars",
+      "genres": ["Sci-Fi", "Romance"],
+      "type": "Movie",
+      "posterUrl": "https://example.com/posters/beyond_stars.jpg",
+      "backgroundUrl": "https://example.com/backgrounds/beyond_stars_bg.jpg",
+      "sources": [
+        {
+          "episode": 1,
+          "url": "https://example.com/movies/beyond_stars_full.mp4"
+        }
+      ]
+    },
+    {
+      "id": "mv008",
+      "title": "The Forgotten Realm",
+      "genres": ["Fantasy", "Adventure"],
+      "type": "Movie",
+      "posterUrl": "https://example.com/posters/forgotten_realm.jpg",
+      "backgroundUrl": "https://example.com/backgrounds/forgotten_realm_bg.jpg",
+      "sources": [
+        {
+          "episode": 1,
+          "url": "https://example.com/movies/forgotten_realm_full.mp4"
+        }
+      ]
+    },
+    {
+      "id": "mv009",
+      "title": "Echoes of Time",
+      "genres": ["Drama", "Historical"],
+      "type": "Movie",
+      "posterUrl": "https://example.com/posters/echoes_time.jpg",
+      "backgroundUrl": "https://example.com/backgrounds/echoes_time_bg.jpg",
+      "sources": [
+        {
+          "episode": 1,
+          "url": "https://example.com/movies/echoes_time_full.mp4"
+        }
+      ]
+    },
+    {
+      "id": "mv010",
+      "title": "Neon Dreams",
+      "genres": ["Cyberpunk", "Action"],
+      "type": "Movie",
+      "posterUrl": "https://example.com/posters/neon_dreams.jpg",
+      "backgroundUrl": "https://example.com/backgrounds/neon_dreams_bg.jpg",
+      "sources": [
+        {
+          "episode": 1,
+          "url": "https://example.com/movies/neon_dreams_full.mp4"
+        }
+      ]
+    },
+    {
+      "id": "mv011",
+      "title": "Silent Shadows",
+      "genres": ["Thriller", "Mystery"],
+      "type": "Movie",
+      "posterUrl": "https://example.com/posters/silent_shadows.jpg",
+      "backgroundUrl": "https://example.com/backgrounds/silent_shadows_bg.jpg",
+      "sources": [
+        {
+          "episode": 1,
+          "url": "https://example.com/movies/silent_shadows_full.mp4"
+        }
+      ]
+    },
+    {
+      "id": "mv012",
+      "title": "The Green Planet",
+      "genres": ["Documentary", "Nature"],
+      "type": "Movie",
+      "posterUrl": "https://example.com/posters/green_planet.jpg",
+      "backgroundUrl": "https://example.com/backgrounds/green_planet_bg.jpg",
+      "sources": [
+        {
+          "episode": 1,
+          "url": "https://example.com/movies/green_planet_full.mp4"
+        }
+      ]
+    },
+    {
+      "id": "mv013",
+      "title": "Crimson Tide",
+      "genres": ["Action", "War"],
+      "type": "Movie",
+      "posterUrl": "https://example.com/posters/crimson_tide.jpg",
+      "backgroundUrl": "https://example.com/backgrounds/crimson_tide_bg.jpg",
+      "sources": [
+        {
+          "episode": 1,
+          "url": "https://example.com/movies/crimson_tide_full.mp4"
+        }
+      ]
+    },
+    {
+      "id": "mv014",
+      "title": "Stardust Chronicles",
+      "genres": ["Fantasy", "Adventure", "Family"],
+      "type": "Movie",
+      "posterUrl": "https://example.com/posters/stardust_chronicles.jpg",
+      "backgroundUrl": "https://example.com/backgrounds/stardust_chronicles_bg.jpg",
+      "sources": [
+        {
+          "episode": 1,
+          "url": "https://example.com/movies/stardust_chronicles_full.mp4"
+        }
+      ]
+    },
+    {
+      "id": "mv015",
+      "title": "The Grand Heist",
+      "genres": ["Crime", "Comedy"],
+      "type": "Movie",
+      "posterUrl": "https://example.com/posters/grand_heist.jpg",
+      "backgroundUrl": "https://example.com/backgrounds/grand_heist_bg.jpg",
+      "sources": [
+        {
+          "episode": 1,
+          "url": "https://example.com/movies/grand_heist_full.mp4"
+        }
+      ]
+    },
+    {
+      "id": "mv016",
+      "title": "Digital Frontier",
+      "genres": ["Sci-Fi", "Thriller"],
+      "type": "Movie",
+      "posterUrl": "https://example.com/posters/digital_frontier.jpg",
+      "backgroundUrl": "https://example.com/backgrounds/digital_frontier_bg.jpg",
+      "sources": [
+        {
+          "episode": 1,
+          "url": "https://example.com/movies/digital_frontier_full.mp4"
+        }
+      ]
+    },
+    {
+      "id": "mv017",
+      "title": "Lost in the Woods",
+      "genres": ["Horror", "Mystery"],
+      "type": "Movie",
+      "posterUrl": "https://example.com/posters/lost_woods.jpg",
+      "backgroundUrl": "https://example.com/backgrounds/lost_woods_bg.jpg",
+      "sources": [
+        {
+          "episode": 1,
+          "url": "https://example.com/movies/lost_woods_full.mp4"
+        }
+      ]
+    },
+    {
+      "id": "mv018",
+      "title": "The Time Weaver",
+      "genres": ["Fantasy", "Sci-Fi"],
+      "type": "Movie",
+      "posterUrl": "https://example.com/posters/time_weaver.jpg",
+      "backgroundUrl": "https://example.com/backgrounds/time_weaver_bg.jpg",
+      "sources": [
+        {
+          "episode": 1,
+          "url": "https://example.com/movies/time_weaver_full.mp4"
+        }
+      ]
+    },
+    {
+      "id": "mv019",
+      "title": "Operation Midnight",
+      "genres": ["Action", "Spy"],
+      "type": "Movie",
+      "posterUrl": "https://example.com/posters/operation_midnight.jpg",
+      "backgroundUrl": "https://example.com/backgrounds/operation_midnight_bg.jpg",
+      "sources": [
+        {
+          "episode": 1,
+          "url": "https://example.com/movies/operation_midnight_full.mp4"
+        }
+      ]
+    },
+    {
+      "id": "mv020",
+      "title": "The Artist's Muse",
+      "genres": ["Drama", "Romance"],
+      "type": "Movie",
+      "posterUrl": "https://example.com/posters/artists_muse.jpg",
+      "backgroundUrl": "https://example.com/backgrounds/artists_muse_bg.jpg",
+      "sources": [
+        {
+          "episode": 1,
+          "url": "https://example.com/movies/artists_muse_full.mp4"
+        }
+      ]
+    },
+    {
+      "id": "mv021",
+      "title": "Quantum Leap",
+      "genres": ["Sci-Fi", "Adventure"],
+      "type": "Movie",
+      "posterUrl": "https://example.com/posters/quantum_leap.jpg",
+      "backgroundUrl": "https://example.com/backgrounds/quantum_leap_bg.jpg",
+      "sources": [
+        {
+          "episode": 1,
+          "url": "https://example.com/movies/quantum_leap_full.mp4"
+        }
+      ]
+    },
+    {
+      "id": "mv022",
+      "title": "The Serpent's Coil",
+      "genres": ["Thriller", "Crime"],
+      "type": "Movie",
+      "posterUrl": "https://example.com/posters/serpents_coil.jpg",
+      "backgroundUrl": "https://example.com/backgrounds/serpents_coil_bg.jpg",
+      "sources": [
+        {
+          "episode": 1,
+          "url": "https://example.com/movies/serpents_coil_full.mp4"
+        }
+      ]
+    },
+    {
+      "id": "mv023",
+      "title": "Legends of the North",
+      "genres": ["Action", "Fantasy"],
+      "type": "Movie",
+      "posterUrl": "https://example.com/posters/legends_north.jpg",
+      "backgroundUrl": "https://example.com/backgrounds/legends_north_bg.jpg",
+      "sources": [
+        {
+          "episode": 1,
+          "url": "https://example.com/movies/legends_north_full.mp4"
+        }
+      ]
+    },
+    {
+      "id": "mv024",
+      "title": "The Cosmic Whisper",
+      "genres": ["Sci-Fi", "Mystery"],
+      "type": "Movie",
+      "posterUrl": "https://example.com/posters/cosmic_whisper.jpg",
+      "backgroundUrl": "https://example.com/backgrounds/cosmic_whisper_bg.jpg",
+      "sources": [
+        {
+          "episode": 1,
+          "url": "https://example.com/movies/cosmic_whisper_full.mp4"
+        }
+      ]
+    },
+    {
+      "id": "mv025",
+      "title": "A Walk Through Time",
+      "genres": ["Drama", "Historical"],
+      "type": "Movie",
+      "posterUrl": "https://example.com/posters/walk_time.jpg",
+      "backgroundUrl": "https://example.com/backgrounds/walk_time_bg.jpg",
+      "sources": [
+        {
+          "episode": 1,
+          "url": "https://example.com/movies/walk_time_full.mp4"
+        }
+      ]
+    },
+    {
+      "id": "mv026",
+      "title": "The Golden Compass",
+      "genres": ["Fantasy", "Adventure", "Family"],
+      "type": "Movie",
+      "posterUrl": "https://example.com/posters/golden_compass.jpg",
+      "backgroundUrl": "https://example.com/backgrounds/golden_compass_bg.jpg",
+      "sources": [
+        {
+          "episode": 1,
+          "url": "https://example.com/movies/golden_compass_full.mp4"
+        }
+      ]
+    },
+    {
+      "id": "mv027",
+      "title": "Deep Sea Discovery",
+      "genres": ["Documentary", "Nature"],
+      "type": "Movie",
+      "posterUrl": "https://example.com/posters/deep_sea.jpg",
+      "backgroundUrl": "https://example.com/backgrounds/deep_sea_bg.jpg",
+      "sources": [
+        {
+          "episode": 1,
+          "url": "https://example.com/movies/deep_sea_full.mp4"
+        }
+      ]
+    },
+    {
+      "id": "mv028",
+      "title": "Code Red",
+      "genres": ["Action", "Thriller"],
+      "type": "Movie",
+      "posterUrl": "https://example.com/posters/code_red.jpg",
+      "backgroundUrl": "https://example.com/backgrounds/code_red_bg.jpg",
+      "sources": [
+        {
+          "episode": 1,
+          "url": "https://example.com/movies/code_red_full.mp4"
+        }
+      ]
+    },
+    {
+      "id": "mv029",
+      "title": "The Pixelated Dream",
+      "genres": ["Animation", "Family", "Adventure"],
+      "type": "Movie",
+      "posterUrl": "https://example.com/posters/pixelated_dream.jpg",
+      "backgroundUrl": "https://example.com/backgrounds/pixelated_dream_bg.jpg",
+      "sources": [
+        {
+          "episode": 1,
+          "url": "https://example.com/movies/pixelated_dream_full.mp4"
+        }
+      ]
+    },
+    {
+      "id": "mv030",
+      "title": "Future's Echo",
+      "genres": ["Sci-Fi", "Drama"],
+      "type": "Movie",
+      "posterUrl": "https://example.com/posters/futures_echo.jpg",
+      "backgroundUrl": "https://example.com/backgrounds/futures_echo_bg.jpg",
+      "sources": [
+        {
+          "episode": 1,
+          "url": "https://example.com/movies/futures_echo_full.mp4"
+        }
+      ]
+    }
+  ]
